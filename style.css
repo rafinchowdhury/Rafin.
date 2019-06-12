@@ -20,7 +20,7 @@ body{
 	display:block;
 	width:40px;
 	height:32px;
-	position: absolute;
+	position: fixed;
 	cursor: pointer;
 	opacity: 0;
 	z-index: 2;
